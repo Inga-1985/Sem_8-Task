@@ -8,3 +8,4 @@ y = int(input('Qty of student in 2.class: '))
 z = int(input('Qty of student in 3.class: '))
 
 print(f"It is required to buy {(-(-x//2)-(-y//2)-(-z//2))} scool desks")
+# print(f"It is required to buy {(x+1)//2+ (y+1)//2+ (z+1)//2} scool desks")
