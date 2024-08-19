@@ -1,13 +1,29 @@
-import pandas as pd
-import random
 
-lst = ['robot'] * 10 + ['human'] * 10
-random.shuffle(lst)
+import numpy as np
 
-data = pd.DataFrame({'whoAmI': lst})
-one_hot_encoded = pd.DataFrame(columns=set(lst))
+# Данные
+zp = np.array([35, 45, 190, 200, 40, 70, 54, 150, 120, 110])
+ks = np.array([401, 574, 874, 919, 459, 739, 653, 902, 746, 832])
 
-for value in set(lst):
-    one_hot_encoded[value] = (data['whoAmI'] == value).astype(int)
+# Инициализация коэффициентов (градиентный спуск)
+w = np.random.rand(2)  # Коэффициенты w0 и w1
+alpha = 0.01  # Шаг градиентного спуска
+max_iter = 1000  # Максимальное количество итераций
 
-one_hot_encoded.head()
+# Градиентный спуск
+for i in range(max_iter):
+    # Вычисление ошибки
+    error = ks - (w[0] + w[1] * zp)
+    
+    # Вычисление градиента
+    grad_w0 = -2 * np.mean(error)
+    grad_w1 = -2 * np.mean(zp * error)
+    
+    # Обновление коэффициентов
+    w[0] -= alpha * grad_w0
+    w[1] -= alpha * grad_w1
+
+# Вывод коэффициентов
+print("Коэффициенты:")
+print("Intercept (w0):", w[0])
+print("Признак (w1):", w[1])
