@@ -1,1 +1,0 @@
-__all__ = ["seminar01", "seminar02", "seminar03", "seminar04", "seminar05", "seminar06"]
