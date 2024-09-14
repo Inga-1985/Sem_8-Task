@@ -1,0 +1,100 @@
+{
+  "C:\\Users\\User1\\Desktop\\\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f_\u0440\u0430\u0431\u043e\u0442\u0430\\Task_8": {
+    "seminar": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f_\u0440\u0430\u0431\u043e\u0442\u0430"
+    },
+    "workhome": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f_\u0440\u0430\u0431\u043e\u0442\u0430"
+    },
+    "result.csv": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "Task_8"
+    },
+    "result.json": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "Task_8"
+    },
+    "result.pickle": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "Task_8"
+    }
+  },
+  "C:\\Users\\User1\\Desktop\\\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f_\u0440\u0430\u0431\u043e\u0442\u0430\\Task_8\\seminar": {
+    "seminar_01.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "seminar"
+    },
+    "seminar_02.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "seminar"
+    },
+    "seminar_03.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "seminar"
+    },
+    "seminar_04.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "seminar"
+    }
+  },
+  "C:\\Users\\User1\\Desktop\\\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f_\u0440\u0430\u0431\u043e\u0442\u0430\\Task_8\\workhome": {
+    "__pycache__": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "Task_8"
+    },
+    "result.csv": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "workhome"
+    },
+    "result.json": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "workhome"
+    },
+    "result.pickle": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "workhome"
+    },
+    "search_directory.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "workhome"
+    },
+    "workhome02.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "workhome"
+    },
+    "__init__.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "workhome"
+    }
+  },
+  "C:\\Users\\User1\\Desktop\\\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f_\u0440\u0430\u0431\u043e\u0442\u0430\\Task_8\\workhome\\__pycache__": {
+    "directory_reference.cpython-311.pyc": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "search_directory.cpython-311.pyc": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  }
+}

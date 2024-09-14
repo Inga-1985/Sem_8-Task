@@ -1,0 +1,319 @@
+{
+  "E:\\Git\\GB_Immersion_Python_8": {
+    ".git": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "Git"
+    },
+    "__pycache__": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "Git"
+    },
+    "README.md": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "result.csv": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "result.json": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "result.pickle": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "search_directory.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "task02.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "__init__.py": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "GB_Immersion_Python_8"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git": {
+    "fsmonitor--daemon": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "hooks": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "info": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "logs": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "objects": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "refs": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "GB_Immersion_Python_8"
+    },
+    "config": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": ".git"
+    },
+    "description": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": ".git"
+    },
+    "HEAD": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": ".git"
+    },
+    "index": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": ".git"
+    },
+    "packed-refs": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": ".git"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\fsmonitor--daemon": {
+    "cookies": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\fsmonitor--daemon\\cookies": {},
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\hooks": {
+    "applypatch-msg.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "commit-msg.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "fsmonitor-watchman.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "post-update.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "pre-applypatch.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "pre-commit.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "pre-merge-commit.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "pre-push.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "pre-rebase.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "pre-receive.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "prepare-commit-msg.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "push-to-checkout.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "sendemail-validate.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    },
+    "update.sample": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "hooks"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\info": {
+    "exclude": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "info"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\logs": {
+    "refs": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    },
+    "HEAD": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "logs"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\logs\\refs": {
+    "heads": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "logs"
+    },
+    "remotes": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "logs"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\logs\\refs\\heads": {
+    "main": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "heads"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\logs\\refs\\remotes": {
+    "origin": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "refs"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\logs\\refs\\remotes\\origin": {
+    "HEAD": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "origin"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\objects": {
+    "info": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    },
+    "pack": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\objects\\info": {},
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\objects\\pack": {
+    "pack-e711d9f693cbefa825c60138171961dbfe52e74b.idx": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "pack"
+    },
+    "pack-e711d9f693cbefa825c60138171961dbfe52e74b.pack": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "pack"
+    },
+    "pack-e711d9f693cbefa825c60138171961dbfe52e74b.rev": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "pack"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\refs": {
+    "heads": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    },
+    "remotes": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    },
+    "tags": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": ".git"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\refs\\heads": {
+    "main": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "heads"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\refs\\remotes": {
+    "origin": {
+      "object_size": null,
+      "object_type": "directory",
+      "parant_directory": "refs"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\refs\\remotes\\origin": {
+    "HEAD": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "origin"
+    }
+  },
+  "E:\\Git\\GB_Immersion_Python_8\\.git\\refs\\tags": {},
+  "E:\\Git\\GB_Immersion_Python_8\\__pycache__": {
+    "directory_reference.cpython-311.pyc": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "search_directory.cpython-311.pyc": {
+      "object_size": null,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  }
+}
